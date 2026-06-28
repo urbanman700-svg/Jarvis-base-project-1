@@ -1,0 +1,20 @@
+# Android Studio / IntelliJ / Eclipse / NetBeans / Gradle / Maven project files
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/app/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Local APKs and workspace outputs
+app-debug.apk
+.build-outputs/
+*.log
+.attach_pid*
+hs_err_pid*
+
